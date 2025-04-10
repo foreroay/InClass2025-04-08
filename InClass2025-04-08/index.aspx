@@ -15,9 +15,8 @@
                     <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
                 </asp:TableCell>
                 <asp:TableCell>
-                    <asp:Calendar ID="Calendar2" runat="server"></asp:Calendar>
+                    <asp:Calendar ID="CalCheckOutDate" runat="server"></asp:Calendar>
                 </asp:TableCell>
-                <asp:TableCell>
 
                 </asp:TableCell>
             </asp:TableRow>
@@ -35,7 +34,6 @@
             <asp:TableRow>
                 <asp:TableCell>
 
-                </asp:TableCell>
                 <asp:TableCell>
 
                 </asp:TableCell>
